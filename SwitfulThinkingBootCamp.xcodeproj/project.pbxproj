@@ -12,6 +12,7 @@
 		06FB5D0526CEDD95001AF03E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 06FB5D0426CEDD95001AF03E /* Assets.xcassets */; };
 		06FB5D0826CEDD95001AF03E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 06FB5D0726CEDD95001AF03E /* Preview Assets.xcassets */; };
 		06FB5D1226CEE32A001AF03E /* TextBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06FB5D1126CEE32A001AF03E /* TextBootCamp.swift */; };
+		06FB5D1426D03486001AF03E /* ShapesBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06FB5D1326D03486001AF03E /* ShapesBootCamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		06FB5D0726CEDD95001AF03E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		06FB5D0926CEDD95001AF03E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		06FB5D1126CEE32A001AF03E /* TextBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootCamp.swift; sourceTree = "<group>"; };
+		06FB5D1326D03486001AF03E /* ShapesBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootCamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				06FB5D0426CEDD95001AF03E /* Assets.xcassets */,
 				06FB5D0926CEDD95001AF03E /* Info.plist */,
 				06FB5D0626CEDD95001AF03E /* Preview Content */,
+				06FB5D1326D03486001AF03E /* ShapesBootCamp.swift */,
 			);
 			path = SwitfulThinkingBootCamp;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				06FB5D1426D03486001AF03E /* ShapesBootCamp.swift in Sources */,
 				06FB5D0326CEDD93001AF03E /* ContentView.swift in Sources */,
 				06FB5D0126CEDD93001AF03E /* SwitfulThinkingBootCampApp.swift in Sources */,
 				06FB5D1226CEE32A001AF03E /* TextBootCamp.swift in Sources */,
