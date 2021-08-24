@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		066B20B426D5687E00DDB361 /* ColorBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 066B20B326D5687E00DDB361 /* ColorBootCamp.swift */; };
+		066B20B626D57F3C00DDB361 /* GradientBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 066B20B526D57F3C00DDB361 /* GradientBootCamp.swift */; };
 		06FB5D0126CEDD93001AF03E /* SwitfulThinkingBootCampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06FB5D0026CEDD93001AF03E /* SwitfulThinkingBootCampApp.swift */; };
 		06FB5D0326CEDD93001AF03E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06FB5D0226CEDD93001AF03E /* ContentView.swift */; };
 		06FB5D0526CEDD95001AF03E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 06FB5D0426CEDD95001AF03E /* Assets.xcassets */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		066B20B326D5687E00DDB361 /* ColorBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorBootCamp.swift; sourceTree = "<group>"; };
+		066B20B526D57F3C00DDB361 /* GradientBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientBootCamp.swift; sourceTree = "<group>"; };
 		06FB5CFD26CEDD93001AF03E /* SwitfulThinkingBootCamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwitfulThinkingBootCamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		06FB5D0026CEDD93001AF03E /* SwitfulThinkingBootCampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwitfulThinkingBootCampApp.swift; sourceTree = "<group>"; };
 		06FB5D0226CEDD93001AF03E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -63,6 +67,8 @@
 				06FB5D0926CEDD95001AF03E /* Info.plist */,
 				06FB5D0626CEDD95001AF03E /* Preview Content */,
 				06FB5D1326D03486001AF03E /* ShapesBootCamp.swift */,
+				066B20B326D5687E00DDB361 /* ColorBootCamp.swift */,
+				066B20B526D57F3C00DDB361 /* GradientBootCamp.swift */,
 			);
 			path = SwitfulThinkingBootCamp;
 			sourceTree = "<group>";
@@ -146,7 +152,9 @@
 			files = (
 				06FB5D1426D03486001AF03E /* ShapesBootCamp.swift in Sources */,
 				06FB5D0326CEDD93001AF03E /* ContentView.swift in Sources */,
+				066B20B426D5687E00DDB361 /* ColorBootCamp.swift in Sources */,
 				06FB5D0126CEDD93001AF03E /* SwitfulThinkingBootCampApp.swift in Sources */,
+				066B20B626D57F3C00DDB361 /* GradientBootCamp.swift in Sources */,
 				06FB5D1226CEE32A001AF03E /* TextBootCamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
