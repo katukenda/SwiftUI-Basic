@@ -60,14 +60,13 @@ struct ButtonsBootCamp: View {
                 Text("Finished")
                     .font(.caption)
                     .bold()
-                    .foregroundColor(.gray)
+                    .foregroundColor(.orange)
                     .padding()
                     .padding(.horizontal, 10)
                     .background(
                     Capsule()
-                        .stroke(Color.gray, lineWidth: 3.0)
+                        .stroke(Color.orange, lineWidth: 3.0)
                     )
-                
             }
 
             
