@@ -20,6 +20,7 @@ struct ForEachBootCamp: View {
                 Text("\(data[index]): \(index)")
             }
           
+            Text("\(data[2])")
         }
     }
 }
