@@ -12,6 +12,7 @@ struct StateBootCamp: View {
     @State var backgroundColor: Color = Color.green
     @State var myTitle :String = "My Title"
     @State var count : Int = 0
+    //
     
     var body: some View {
         ZStack{
