@@ -36,7 +36,7 @@ struct ButtonView: View {
         Button {
             backgroundColor = Color.yellow
             buttonColor = Color.pink
-            title = "New Title" 
+            title = "New Title"
             
         } label: {
             Text("Button")
